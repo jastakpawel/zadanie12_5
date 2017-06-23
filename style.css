@@ -1,0 +1,25 @@
+body {
+	background: #55ACEE;
+	color: white;
+	text-align: center;
+	opacity: 0.7;
+}
+h1 {
+	padding-bottom: 50px;
+}
+.trigger {
+	padding: 15px 150px;
+	border: white 1px solid;
+	margin: 45px;
+	background: #55ACEE;
+	color: white;
+	border-radius: 5px;
+}
+.tweet {
+	color: white;
+	border: white 1px solid;
+	padding: 15px 160px;
+	margin-top: 550px;
+	text-decoration: none;
+	border-radius: 5px;
+}
